@@ -14,6 +14,8 @@ Before this lesson, we recommend you go through
 * Understand the storage layer underlying Big Data - HDFS
 * Store and retrieve data in HDFS
 
+## Notes
+[Notes](https://github.com/commit-live-students/big-data-day-1/tree/master/notes)
 
 ## Agenda
 
